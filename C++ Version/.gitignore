@@ -1,0 +1,28 @@
+# Ignore compiled object files
+*.o
+*.obj
+
+# Ignore executables
+hello
+a.out
+*.exe
+
+# Ignore debugging files
+*.gdb
+*.dSYM/
+*.dwo
+*.dwp
+
+# Ignore build directories
+/build/
+/bin/
+/out/
+
+# Ignore editor and system files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+.DS_Store
+
